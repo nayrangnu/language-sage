@@ -1,10 +1,10 @@
-'comment': 'Matches Python\'s regular expression syntax.'
+'comment': 'Matches Sage\'s regular expression syntax.'
 'fileTypes': [
   're'
 ]
 'foldingStartMarker': '(/\\*|\\{|\\()'
 'foldingStopMarker': '(\\*/|\\}|\\))'
-'name': 'Regular Expressions (Python)'
+'name': 'Regular Expressions (Sage)'
 'patterns': [
   {
     'match': '\\\\[bBAZzG]|\\^|\\$'
@@ -151,4 +151,4 @@
         ]
       }
     ]
-'scopeName': 'source.regexp.python'
+'scopeName': 'source.regexp.sage'

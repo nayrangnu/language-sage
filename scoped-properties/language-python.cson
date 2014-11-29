@@ -1,4 +1,4 @@
-'.source.python':
+'.source.sage':
   'editor':
     'autoIndentOnPaste': false
     'tabLength': 4

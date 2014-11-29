@@ -1,7 +1,7 @@
-'.source.python':
-  '#!/usr/bin/env python':
+'.source.sage':
+  '#!/usr/bin/env sage':
     'prefix': 'env'
-    'body': '#!/usr/bin/env python\n'
+    'body': '#!/usr/bin/env sage\n'
   '# coding=utf-8':
     'prefix': 'enc'
     'body': '# coding=utf-8\n'
@@ -98,7 +98,7 @@
   'if __name__ == \'__main__\'':
     'prefix': 'ifmain'
     'body': 'if __name__ == \'__main__\':\n\t${1:main()}$0'
-'.source.python:not(.string)':
+'.source.sage:not(.string)':
   'self':
     'prefix': '.'
     'body': 'self.'
