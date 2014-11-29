@@ -8,13 +8,7 @@
 2 info using npm@1.4.4
 3 info using node@v0.10.33
 4 error Error: Git working directory not clean.
-4 error M README.md
-4 error M grammars/python-traceback.cson
-4 error M grammars/python.cson
-4 error M "grammars/regular expressions (python).cson"
-4 error M scoped-properties/language-python.cson
-4 error M snippets/language-python.cson
-4 error M spec/python-spec.coffee
+4 error M npm-debug.log
 4 error     at /Applications/Atom.app/Contents/Resources/app/apm/node_modules/atom-package-manager/node_modules/npm/lib/version.js:98:35
 4 error     at ChildProcess.exithandler (child_process.js:646:7)
 4 error     at ChildProcess.emit (events.js:98:17)
