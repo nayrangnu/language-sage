@@ -1,18 +1,18 @@
 {
-  "name": "language-python",
+  "name": "language-sage",
   "version": "0.24.0",
   "engines": {
     "atom": "*",
     "node": "*"
   },
-  "description": "Python language support in Atom",
-  "homepage": "https://atom.github.io/language-python",
+  "description": "Sage Math language support in Atom",
+  "homepage": "https://github.com/nayrangnu/language-sage",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-python.git"
+    "url": "https://github.com/nayrangnu/language-sage.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-python/issues"
+    "url": "https://github.com/nayrangnu/language-sage/issues"
   }
 }
