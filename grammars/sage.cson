@@ -89,7 +89,7 @@
   }
   {
     'comment': 'keywords that delimit loops'
-    'name': 'keyword.control.repeat.sage'
+    'name': 'keyword.control.loop.sage'
     'match': '\\b(for|while)\\b'
   }
   {
